@@ -1,6 +1,6 @@
 # Hi, I'm Noman 👋🏾 👩🏾‍💻
 
-<img src="hero.png" alt="Noman Sayyed - passionate freelancer senior ui/ux developer, expertise html5, css3, jQuery and many more.s">
+![Noman Sayyed - passionate freelancer senior ui/ux developer, expertise html5, css3, jQuery and many more](hero.png)
 I am a UI/UX Developer who is passionate about making open-source more accessible, creating technology to elevate people. Specializing in responsive Web design, modern CSS, progressive enhancement, and accessibility. Some technologies I enjoy working with include HTML5, CSS3, Schema Markup and many more. Create interfaces and design systems that work for everyone.
 
 
